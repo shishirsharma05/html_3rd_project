@@ -1,0 +1,14 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+<img src="img/blue flower.jpg" alt="Flower">
+
+
+i {
+	font-size: 15px;
+	color: blue;
+}
